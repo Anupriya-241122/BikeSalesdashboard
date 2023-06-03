@@ -16,3 +16,5 @@ Here are the key business insights derived from the data:
               
 By leveraging the Bike Sales Dashboard, I have gained the ability to make data-backed decisions like never before.
 I am eagerly seeking your valuable feedback. Please leave a comment to share your thoughts. Your feedback is highly valued and appreciated.
+
+![Screenshot 2023-06-02 122755](https://github.com/Anupriya-241122/BikeSalesdashboard/assets/122012680/1cc5e538-4791-449b-b911-8f9ce99b4cd0)
